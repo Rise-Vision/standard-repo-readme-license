@@ -1,3 +1,4 @@
+I will rule the world with GIT!
 # Storage Client  ![Build Status](http://devtools1.risevision.com:8080/job/Storage-Client-BranchPush/badge/icon)
 
 ## Introduction
