@@ -34,6 +34,7 @@ At this time Chrome is the only browser that this project and Rise Vision suppor
 If you encounter problems or find defects we really want to hear about them. If you could take the time to add them as issues to this Repository it would be most appreciated. When reporting issues please use the following format where applciable:
 
 **Reproduction Steps**
+
 1. did this
 2. then that
 3. followed by this (screenshots / video captures always help)
