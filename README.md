@@ -34,17 +34,15 @@ At this time Chrome is the only browser that this project and Rise Vision suppor
 If you encounter problems or find defects we really want to hear about them. If you could take the time to add them as issues to this Repository it would be most appreciated. When reporting issues please use the following format where applciable:
 
 **Reproduction Steps**
-(list of steps)
-1. step 1
-2. step 2
+1. did this
+2. then that
+3. followed by this (screenshots / video captures always help)
 
 **Expected Results**
-(what you expected the steps to produce)
+What you expected to happen.
 
 **Actual Results**
-(what actually was produced by the app)
-
-Screenshots are always helpful with issues. 
+What actually happened. (screenshots / video captures always help)
 
 ## Contributing
 All contributions are greatly appreciated and welcome! If you would first like to sound out your contribution ideas please post your thoughts to our [community](http://community.risevision.com), otherwise submit a pull request and we will do our best to incorporate it
