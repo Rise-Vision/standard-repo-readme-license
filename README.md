@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Include a description of Project Name and what it's purpose is. *This does this to achieve this for you.* Do not use acronyms. If applicable include screenshots and other images, links to demonstration examples, user documentation and any other applicable reference materials.
+*Include a description of Project Name and what it's purpose is. This does this to achieve this for you. Do not use acronyms. If applicable include screenshots and other images, links to demonstration examples, user documentation and any other applicable reference materials.*
 
 Project Name works in conjunction with [Rise Vision](http://www.risevision.com), the [digital signage management application](http://rva.risevision.com/) that runs on [Google Cloud](https://cloud.google.com).
 
@@ -10,11 +10,11 @@ At this time Chrome is the only browser that this project and Rise Vision suppor
 
 ## Built With
 *example list follows, replace with actual tools used*
-- NPM (node package manager)
-- Angularjs
-- Gulp
-- Bower
-- Karma and Mocha for testing
+- *NPM (node package manager)*
+- *Angularjs*
+- *Gulp*
+- *Bower*
+- *Karma and Mocha for testing*
 
 ## Development 
 
