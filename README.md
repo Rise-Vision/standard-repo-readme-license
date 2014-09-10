@@ -82,4 +82,4 @@ If you would like more information on developing applications for Rise Vision pl
 
 **Facilitator**
 
-[Tyler Johnson](https://github.com/tejohnso "Tyler Johnson")
+[Your Name](https://github.com/yournameongithub "Your Name")
