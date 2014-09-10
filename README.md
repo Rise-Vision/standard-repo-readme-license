@@ -40,9 +40,11 @@ If you encounter problems or find defects we really want to hear about them. If 
 3. followed by this (screenshots / video captures always help)
 
 **Expected Results**
+
 What you expected to happen.
 
 **Actual Results**
+
 What actually happened. (screenshots / video captures always help)
 
 ## Contributing
@@ -54,7 +56,7 @@ All contributions are greatly appreciated and welcome! If you would first like t
 If you would like translate the user interface for this product to another language please complete the following:
 - Download the english translation file from this repository.
 - Download and install POEdit. This is software that you can use to write translations into another language.
-- Open the translation file in the POEdit program and set the language for which you are writing a translation.
+- Open the translation file in the [POEdit](http://www.poedit.net/) program and set the language for which you are writing a translation.
 - In the Source text window, you will see the English word or phrase to be translated. You can provide a translation for it in the Translation window.
 - When the translation is complete, save it with a .po extension and email the file to support@risevision.com. Please be sure to indicate the Widget or app the translation file is for, as well as the language that it has been translated into, and we will integrate it after the translation has been verified.
 
@@ -75,5 +77,6 @@ If you are looking for user documentation on Rise Vision please see http://www.r
 
 If you would like more information on developing applications for Rise Vision please visit http://www.risevision.com/help/developers/. 
 
-*Facilitator*
+**Facilitator**
+
 [Tyler Johnson](https://github.com/tejohnso "Tyler Johnson")
