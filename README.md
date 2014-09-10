@@ -65,10 +65,10 @@ If you would like translate the user interface for this product to another langu
 In order to support languages i18n needs to be added to this repository.  Please refer to our Suggested Contributions.
 
 ### Suggested Contributions
-**- we need this
-- and we need that
-- we could really use this
-- **and if we don't already have it (see above), we could use i18n Language Support**
+- *we need this*
+- *and we need that*
+- *we could really use this*
+- *and if we don't already have it (see above), we could use i18n Language Support*
 
 ## Resources
 If you have any questions or problems please don't hesitate to join our lively and responsive community at http://community.risevision.com.
@@ -76,6 +76,9 @@ If you have any questions or problems please don't hesitate to join our lively a
 If you are looking for user documentation on Rise Vision please see http://www.risevision.com/help/users/
 
 If you would like more information on developing applications for Rise Vision please visit http://www.risevision.com/help/developers/. 
+
+
+
 
 **Facilitator**
 
