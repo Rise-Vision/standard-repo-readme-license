@@ -16,7 +16,7 @@ At this time Chrome is the only browser that this project and Rise Vision suppor
 - *Bower*
 - *Karma and Mocha for testing*
 
-## Development 
+## Development
 
 ### Local Development Environment Setup and Installation
 *provide exact details on how to setup the local environment for at least Windows, and if doable, Linux and Mac*
@@ -30,8 +30,8 @@ At this time Chrome is the only browser that this project and Rise Vision suppor
 ### Testing
 *include how to run unit and e2e testing*
 
-## Submitting Issues 
-If you encounter problems or find defects we really want to hear about them. If you could take the time to add them as issues to this Repository it would be most appreciated. When reporting issues please use the following format where applciable:
+## Submitting Issues
+If you encounter problems or find defects we really want to hear about them. If you could take the time to add them as issues to this Repository it would be most appreciated. When reporting issues please use the following format where applicable:
 
 **Reproduction Steps**
 
@@ -75,10 +75,7 @@ If you have any questions or problems please don't hesitate to join our lively a
 
 If you are looking for user documentation on Rise Vision please see http://www.risevision.com/help/users/
 
-If you would like more information on developing applications for Rise Vision please visit http://www.risevision.com/help/developers/. 
-
-
-
+If you would like more information on developing applications for Rise Vision please visit http://www.risevision.com/help/developers/.
 
 **Facilitator**
 
